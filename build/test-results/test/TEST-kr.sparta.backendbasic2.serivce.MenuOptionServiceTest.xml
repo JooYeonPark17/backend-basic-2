@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2025-09-19T13:21:23.610Z" hostname="JooYeonarksMini" time="0.425">
+  <properties/>
+  <testcase name="업데이트 시 Round가 null인 경우 기존 Round 유지" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.399"/>
+  <testcase name="roundId와 menu로 존재 여부 확인 - 존재하는 경우" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="ID로 메뉴 옵션 조회 실패 - 존재하지 않는 ID" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="메뉴 옵션 업데이트 성공" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="roundId로 메뉴 옵션 목록 조회 성공" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="메뉴 옵션 업데이트 실패 - 존재하지 않는 ID" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.002"/>
+  <testcase name="null 값들에 대한 처리 테스트" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="roundId로 메뉴 옵션 목록 조회 - 빈 목록" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="메뉴 옵션 추가 실패 - 중복 메뉴" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.004"/>
+  <testcase name="ID 존재 여부 확인 - 존재하는 경우" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="전체 메뉴 옵션 목록 조회 성공" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="ID로 메뉴 옵션 조회 성공" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="메뉴 옵션 업데이트 성공 - Round 포함" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="메뉴 옵션 삭제 성공" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="ID 존재 여부 확인 - 존재하지 않는 경우" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="메뉴 옵션 삭제 실패 - 존재하지 않는 ID" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="메뉴 옵션 추가 성공" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <testcase name="roundId와 menu로 존재 여부 확인 - 존재하지 않는 경우" classname="kr.sparta.backendbasic2.serivce.MenuOptionServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
